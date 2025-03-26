@@ -1,3 +1,3 @@
 # MA1
 
-[http://joeyxyap.github.io/DIYHaven] (http://Joeyxyap.github.io/DIYHaven)
+[http://joeyxyap.github.io/js/DIYHaven/] (http://Joeyxyap.github.io/js/DIYHaven/)
